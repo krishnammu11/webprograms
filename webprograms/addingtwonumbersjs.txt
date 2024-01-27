@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>Adding two numbers</title>
+<style>
+h1{
+color: green;
+text-align: center;
+}
+p{
+text align: center;font-weight:bold;
+button {
+color red; font-weight: bold;
+body {
+background-color: black;}
+</style>
+</head>
+<body><form>
+<h1>Calculation</h1>
+<p>Enter First Number:<input type="textbox" id="a"></p><br><br>
+<p>Enter Second Number:<input type="textbox" id="b"></p>
+<center>
+<button onclick="calculate sum()">sum</button>:<input type="text" 
+id="sum"></form><script>
+Function Calculate Sum () {
+var a=parseFloat (document. getElementById("a").value);
+var b=parseFloat(document.getElementById("b").value);
+var sum=a+b;
+document.getElementById("sum").value=sum;
+</script>
+</body>
+</html>

@@ -1,0 +1,162 @@
+mca.html
+<html>
+<head>
+<title>mca</title>
+<body>
+<body bgcolor="silver">
+<center>
+<img src="a.png" height="300">
+</center>
+<p><a><font size="5">Master of Computer Applications (MCA) is a two-year 
+professional post-graduate course for candidates wanting to delve deeper into 
+the world of Computer Application development with the help of learning 
+modern programming language. The programme is a blend of both theoretical 
+and practical knowledge. MCA endows students’ an opportunity to work with 
+tools meant to develop better and faster applications.</p></a></font size>
+</body>
+</head>
+</html>
+Mtech.html
+<html>
+<head>
+<title>Mtech</title>
+<body>
+<body bgcolor="yellow">
+<center>
+<h1>MASTER OF TECHNOLOGY</h1>
+</center>
+<p><a><font size="5">Full form of ME is Master of Engineering and MTech 
+full form is Master of Technology. MTech is a professional postgraduate 
+engineering master degree programme awarded to candidates after completion 
+of two years of study in the discipline of engineering. This degree is predicated 
+in a specific branch of engineering.
+In India, the MTech degree is offered across various specialisations. These 
+specialisations include Civil Engineering, Computer Science and Engineering, 
+Chemical Engineering, Electrical Engineering, VLSI, Mechanical Engineering, 
+Electronics and Communication Engineering etc.</p></a></font size>
+<ul>
+<li>MTech in Biomedical Engineering</li>
+<li>MTech in Metallurgical Engineering</li>
+<li>MTech in Mechanical Engineering</li>
+<li>MTech Courses: Polymer Technology</li>
+<li>MTech in Automobile Engineering</li>
+<li>MTech in Information Technology</li>
+<li>MTech in Electrical Engineering</li>
+<li>MTech Courses: Automation and Robotics</li>
+<iframe src="mca.html" height="300" width="500">
+</ul>
+</body>
+</head>
+</html>
+Cources.html
+<html>
+<head>
+<title>mca</title>
+<body>
+<body>
+<center>
+<h1>COURSES</h1>
+</center>
+<h1><a href="mca.html" target="frame2">MCA</a></h1>
+<h1><a href="mtech.html" target="frame2">MTECH</a></h1>
+</body>
+</head>
+</html>
+<li>MTech Courses: Automation and Robotics</li>
+<iframe src="mca.html" height="300" width="500">
+</ul>
+</body>
+</head>
+</html>
+Cources.html
+<html>
+<head>
+<title>mca</title>
+<body>
+<body>
+<center>
+<h1>COURSES</h1>
+</center>
+<h1><a href="mca.html" target="frame2">MCA</a></h1>
+<h1><a href="mtech.html" target="frame2">MTECH</a></h1>
+</body>
+</head>
+</html>
+/frameset>
+</frameset>
+</frameset>
+</frame>
+</html>
+Frames.html
+<html>
+<head>
+ <title>HTML Frames</title>
+</head>
+<body>
+ <h1>HTML Frames</h1>
+ <p>HTML frames allow you to divide a web page into multiple sections or 
+frames, each with its own HTML document. Frames were commonly used in 
+the past to create complex layouts, but they are now considered outdated and 
+not recommended for modern web development. Instead, CSS and responsive 
+design techniques are preferred for creating flexible and mobile-friendly 
+layouts.</p>
+ <p>It's important to note that frames are not supported in HTML5, and 
+modern web development practices focus on using CSS for layout and 
+JavaScript for dynamic interactions. If you need to create a multi-column layout 
+or include external content in your webpage, consider using CSS flexbox, grid, 
+or other layout techniques instead of frames.</p>
+</body>
+</html>
+List.html
+<html>
+<head>
+ <title>Introduction to HTML Lists</title>
+</head>
+<body >
+ <h1>HTML Lists</h1>
+ <p>HTML provides a way to organize and present information using lists. 
+Lists allow you to display information in a structured and easy-to-read format. 
+There are three main types of lists in HTML:</p>
+ <h2>1. Unordered Lists (UL)</h2>
+ <p>An unordered list is used to represent a list of items that have no specific 
+order. Each item in the list is preceded by a bullet point (or other list 
+marker).</p>
+ 
+ <h2>2. Ordered Lists (OL)</h2>
+ <p>An ordered list is used to represent a list of items that have a specific 
+order or sequence. Each item in the list is numbered. </p>
+</body>
+</html>
+Table.html
+<html>
+<head>
+<title>Introduction to HTML Tables</title>
+</head>
+<body>
+ <h1>HTML Tables</h1>
+ <p>HTML tables are a fundamental part of web page layout and are used to 
+organize and display data in a structured format. Tables consist of rows and 
+columns, where each cell in the table can contain text, images, links, or other 
+HTML elements.</p>
+<p>When rendered in a web browser, this code creates a table with two rows 
+and two columns, where the first row contains header cells (in bold) and the 
+subsequent rows contain data cells.</p>
+</body>
+</html>
+Htmll.html
+<html>
+<head>
+<title>mca</title>
+<body>
+<body>
+<center>
+<h1>HTML</h1>
+</center>
+<p><a><font size="5"><ul>
+<li>HTML stands for Hyper Text Markup Language</li>
+<li>HTML is the standard markup language for creating Web pages</li>
+<li>HTML elements label pieces of content such as "this is a heading", "this is a 
+paragraph", "this is a link", etc.</li></ul></p></a></font size>
+</body>
+</head>
+</html>

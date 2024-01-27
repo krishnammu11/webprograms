@@ -1,0 +1,291 @@
+Home.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>Bootstrap Example</title>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" 
+href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+ <script 
+src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+ <script 
+src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></sc
+ript>
+ <style>
+<div class="jumbotron">
+<td width="40%" allign="right"><img 
+src="C:\Users\LENOVO\Pictures\Saved Pictures\logo.jpg" width=5%> </img> 
+</td>
+ <div class="container text-center">
+ <h1>ELAKSHI BEAUTY</h1> 
+ <p>chasing your beauty</p>
+ </div>
+</div>
+<nav class="navbar navbar-inverse">
+ <div class="container-fluid">
+ <div class="navbar-header">
+ <button type="button" class="navbar-toggle" data-toggle="collapse" datatarget="#myNavbar">
+ <span class="icon-bar"></span>
+ <span class="icon-bar"></span>
+ <span class="icon-bar"></span> 
+ </button>
+ <a class="navbar-brand" 
+href="C:\Users\LENOVO\Desktop\logo.html">Logo</a>
+ </div>
+ <div class="collapse navbar-collapse" id="myNavbar">
+ <ul class="nav navbar-nav">
+ <li class="active"><a 
+href="C:\Users\LENOVO\Desktop\shopping.html">Home</a></li>
+ <li><a 
+href="C:\Users\LENOVO\Desktop\product.html">Products</a></li>
+ <li><a href="C:\Users\LENOVO\Desktop\deals.html">Deals</a></li>
+ <li><a href="C:\Users\LENOVO\Desktop\cntct.html">Contact</a></li>
+ </ul>
+ <ul class="nav navbar-nav navbar-right">
+ <li><a href="#"><span class="glyphicon glyphicon-user"></span> Your 
+Account</a></li>
+ <li><a href="C:\Users\LENOVO\Desktop\cart.html"><span 
+class="glyphicon glyphicon-shopping-cart"></span> Cart</a></li>
+ </ul>
+ </div>
+ </div>
+</nav>
+<div class="container"> 
+ <div class="row">
+ <div class="col-sm-4">
+ <div class="panel panel-primary">
+ <div class="panel-heading">BIG DIWALI DEAL</div>
+<div class="card">
+ <img src="C:\Users\LENOVO\Pictures\Saved Pictures\guna..jpg" 
+alt="GUNA" style="width:100%">
+ <h1>GUNA</h1>
+ 
+ <p>to get flawless glow</p>
+ <p><button>shop now</button></p>
+</div>
+<div class="panel-body"></div>
+ <div class="panel-footer">shop above $4999 and get flat 20%off</div>
+ </div>
+ </div>
+ <div class="col-sm-4"> 
+ <div class="panel panel-danger">
+ <div class="panel-heading">DIWALI DHAMAKHA DEAL</div>
+<div class="card">
+ <img src="C:\Users\LENOVO\Pictures\Saved Pictures\KAMA 
+AYURVEDA.jpg" alt="hair care range" style="width:100%">
+ <h1>KAMA AYURVEDA</h1>
+ <p class="price"></p>
+ <p>100% ayurvedic product ,vegan and paraben free..</p>
+ <p><button>shop now</button></p>
+</div>
+<div class="panel-body"></div>
+ <div class="panel-footer">shop above $4999 and get flat 20%off</div>
+ </div>
+ </div>
+ <div class="col-sm-4"> 
+ <div class="panel panel-danger">
+ <div class="panel-heading">DIWALI DHAMAKHA DEAL</div>
+<div class="card">
+ <img src="C:\Users\LENOVO\Pictures\Saved Pictures\KAMA 
+AYURVEDA.jpg" alt="hair care range" style="width:100%">
+ <h1>KAMA AYURVEDA</h1>
+ <p class="price"></p>
+ <p>100% ayurvedic product ,vegan and paraben free..</p>
+ <p><button>shop now</button></p>
+</div>
+Product.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Single E-commerce Product Page using HTML, CSS -
+Codingscape</title>
+ <!-- Stylesheet -->
+ <link rel="stylesheet" href="style.css">
+ <!---Boxicons CDN Setup for icons-->
+ <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' 
+rel='stylesheet'>
+</head>
+<body>
+ <div class="product-image-slider">
+ <img src="C:\Users\LENOVO\Pictures\Saved 
+Pictures\kma2.jpg" alt="" class="image-list">
+ <img src=alt="C:\Users\LENOVO\Pictures\Saved 
+Pictures\kma3.jpg" alt="" class="image-list">
+ 
+ </div>
+ </div>
+ </div>
+ <div class="product">
+ <div class="product-title">
+ <h2>BHRINGARAJ HAIR OI for Men and Women</h2>
+</div>
+ <div class="product-rating">
+ <span><i class="bx bxs-star"></i></span>
+ <span><i class="bx bxs-star"></i></span>
+ <span><i class="bx bxs-star"></i></span>
+ <span><i class="bx bxs-star"></i></span>
+ <span><i class="bx bxs-star"></i></span>
+ <span class="review">(47 Review)</span>
+ </div>
+ <div class="product-price">
+ <span class="offer-price">$99.00</span>
+ <span class="sale-price">$129.00</span>
+ </div>
+ <div class="product-details">
+ <h3>Description</h3>
+ <p>100% natural authentic formulation nourishes dry and 
+damaged hair.Clinicaally proven to reduce hairfall and dandruff.</p>
+ </div>
+ <div class="product-size">
+ <h4>Size</h4>
+ <div class="size-layout">
+ <input type="radio" name="size" value="50ml" id="1" 
+class="size-input">
+ <label for="1" class="size">50ml</label>
+ <input type="radio" name="size" value="100ml" id="2" 
+class="size-input">
+<label for="2" class="size">100ml</label>
+ </div>
+ </div>
+ </div>
+ <span class="divider"></span>
+ <div class="product-btn-group">
+ <div class="button buy-now"><i class='bx bxs-zap' ></i> Buy 
+Now</div>
+ <div class="button add-cart"><i class='bx bxs-cart' ></i> Add 
+to Cart</div>
+ <div class="button heart"><i class='bx bxs-heart' ></i> Add to 
+Wishlist</div>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ <!--script-->
+ <script src="script.js"></script>
+</body>
+</html>
+Logo.html
+<html>
+<title>logo</title>
+<img src="C:\Users\LENOVO\Pictures\Saved 
+Pictures\logo.jpg"width=20%</img>
+</html>
+Contact.html
+<html>
+<title>contact us</title>
+<h1>contact</h1>
+<ul>
+<li>phone number:9496384810
+<li>email address:elakshibeauty@gmail.com
+<li>feedback:elakshifeedback@gmail.com
+<li>help:elakshihelp@gmail.com
+</ul>
+</html>
+Cart.html
+<html>
+<title>yourcart</title>
+<img src="C:\Users\LENOVO\Pictures\Saved Pictures\lipstick.jpg" 
+alt="lipstick" style="width:10%"> </img>
+ <h1>LIPSTICK</h1>
+ <p class="price">$149.99</p>
+ <p>long lasting matte lipstick..</p>
+ <p><button>buy now</button></p> <br>
+<img src="C:\Users\LENOVO\Pictures\Saved 
+Pictures\mac8.jpg""C:\Users\LENOVO\Pictures\Saved 
+Pictures\mac8.jpg"alt="mascara" style="width:10%"> </img>
+ <h1>M.A.C mascara</h1>
+ <p class="price">$149.99</p>
+ <p>intense black mascara </p>
+ <p><button>buy now</button></p>
+</html>
+Deals.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Single E-commerce Product Page using HTML, CSS -
+Codingscape</title>
+ <!-- Stylesheet -->
+ <link rel="stylesheet" href="style.css">
+ <!---Boxicons CDN Setup for icons-->
+ <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' 
+rel='stylesheet'>
+</head>
+<body>
+ <div class="container">
+ <div class="single-product">
+ <div class="row">
+ <div class="col-6">
+ <div class="product-image">
+<div class="product-image-main">
+ <img src="C:\Users\LENOVO\Pictures\Saved 
+Pictures\lpder.jpg"alt="" id="product-main-image">
+ </div>
+ 
+ </div>
+ </div>
+<div class="col-6">
+ <div class="breadcrumb">
+ <span><a href="#">Home</a></span>
+ <span><a href="#">Product</a></span>
+ <span class="active">LOREAL PARIS HYDRATING 
+SERUM</span>
+ </div>
+ <div class="product">
+ <div class="product-title">
+ <h2>LOREAL PARIS HYLAROUNIC ACID SERUM</h2>
+ </div>
+ <div class="product-rating">
+ <span><i class="bx bxs-star"></i></span>
+ <span><i class="bx bxs-star"></i></span>
+ <span><i class="bx bxs-star"></i></span>
+ <span><i class="bx bxs-star"></i></span>
+ <span><i class="bx bxs-star"></i></span>
+ <span class="review">(56 Review)</span>
+ </div>
+ <div class="product-price">
+ <span class="offer-price">$69.00</span>
+ <span class="sale-price">$179.00</span>
+ </div>
+ <div class="product-details">
+ <h3>Description</h3>
+<p>LOREAL PARIS hydrating serum helps to lift and plump skin</p>
+ </div>
+ <div class="product-size">
+ <h4>Size</h4>
+ <div class="size-layout">
+ <input type="radio" name="size" value="50ml" id="1" 
+class="size-input">
+ <label for="1" class="size">50ml</label>
+ <input type="radio" name="size" value="30ml" id="2" 
+class="size-input">
+ <label for="2" class="size">30ml</label>
+ </div>
+ </div>
+ </div>
+ <span class="divider"></span>
+ <div class="product-btn-group">
+ <div class="button buy-now"><i class='bx bxs-zap' ></i> Buy 
+Now</div>
+ <div class="button add-cart"><i class='bx bxs-cart' ></i> Add 
+to Cart</div>
+ <div class="button heart"><i class='bx bxs-heart' ></i> Add to 
+Wishlist</div>
+ </div>
+ </div>
+ </div>
+ </div>
+</div>
+ </div>
+ <!--script-->
+ <script src="script.js"></script>
+</body>
+</html>

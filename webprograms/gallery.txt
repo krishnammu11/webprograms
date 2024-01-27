@@ -1,0 +1,135 @@
+Profile.html
+<HTML>
+<HEAD>
+<title>profile</title>
+</HEAD>
+<body>
+<center>
+<h1>profile</h1>
+<h3>qualifications &nbsp &nbsp</h3>
+<table border="1" cellpadding="5" width="50%">
+<tr>
+<a href="#qualifications">qualification</a>
+<a href="#qualifications">profile</a>
+<td><B>NAME:</B></td>
+<td>Siyna</td>
+</tr>
+<tr>
+<td><B>EMAIL ID:</B></td>
+<td>siyanamhmd@ gmail.com</td>
+</tr>
+<tr>
+<td><B>MOBILE NO:</B></td>
+<td>9922334567</td>
+</tr>
+<tr>
+<td><B>GENDER:</B></td>
+<td>FEMALE</td>
+</tr>
+<tr>
+<td><B>DOB:</B></td>
+<td>16/8/1999</td>
+</tr>
+<tr>
+<td><B>ADDRESS:</B></td>
+<td>Siyana Manzil </td>
+</tr>
+<tr>
+<td><B>TOWN:</B></td>
+<td>KUTTIPURAM</td>
+</tr><tr>
+<td><B>CITY:</B></td>
+<td>Malappuram</td>
+</tr><tr>
+<td><B>PINCODE:</B></td><td>879899</td></tr><h4 
+id="qualifications">qualifications</h4><table border="1" cellpadding="5" width="50%" 
+id="qualifications"><tr>
+<td><B>NAME:</B></td>
+<td>SIYANA MUHAMMED </td></tr>
+<tr>
+<td><B>COURCE NAME:</B></td>
+<td>MCA</td>
+</tr>
+<tr><td><B>DURATION</B></td>
+<td>2</td></tr>
+</table>
+</body>
+</HTML>
+
+Gallery.html
+<HTML>
+<HEAD>
+</HEAD>
+<body>
+<center>
+<h3>IMAGES </h3>
+<table border="1" cellpadding="5" width="50%">
+<tr>
+<td><img src="a1.jpeg"></td>
+<td><img src="a7.jpeg"></td>
+<td><img src="a3.jpeg"></td>
+</tr>
+<tr>
+<td><img src="a4.webp"></td>
+<td><img src="a5.webp"></td>
+<td><img src="a6.webp"></td>
+</tr>
+</body>
+</html>
+
+Timetable.html
+<HTML>
+<HEAD>
+</HEAD>
+<body>
+<body align="center"><font size="50"><boy bgcolor="red">TIME TABLE GALLERY 
+SHOWS </body bgcolor></font size></body> 
+<h1><font size="2"><a href="as.html">CLICK HERE:profile</a></font size></h1>
+<h2><font size="2"><a href="img.html">CLICK HERE:image</a></font size></h2>
+<h3><font size="2"><a href="links.html">CLICK HERE:links</a></fontt size></h>
+<center>
+<table border="5" cellpadding="5" cellspacing="5" width="50%" allign="center">
+<tr>
+<td>GALLERY NAME</td>
+<td>PLACE</td>
+<td>DATE</td>
+</tr>
+<tr>
+Timetable.html
+<HTML>
+<HEAD>
+</HEAD>
+<body>
+<body align="center"><font size="50"><boy bgcolor="red">TIME TABLE GALLERY 
+SHOWS </body bgcolor></font size></body> 
+<h1><font size="2"><a href="as.html">CLICK HERE:profile</a></font size></h1>
+<h2><font size="2"><a href="img.html">CLICK HERE:image</a></font size></h2>
+<h3><font size="2"><a href="links.html">CLICK HERE:links</a></fontt size></h>
+<center>
+<table border="5" cellpadding="5" cellspacing="5" width="50%" allign="center">
+<tr>
+<td>GALLERY NAME</td>
+<td>PLACE</td>
+<td>DATE</td>
+</tr>
+<tr>
+<table border="5" cellpadding="5" cellspacing="5" width="50%" allign="center">
+<h1 align="center"><u>Links</u></h1>
+<tr>
+<td>pages</td>
+<td>links</td>
+</tr>
+<tr>
+<td>image gallery</td>
+<td><font color="red"><a href="img.html"></font color>CLICK HERE</a></td>
+</tr>
+<tr>
+<td>time table gallery</td>
+<td><font color="red"><a href="timetable.html"></font color>CLICK HERE</a>
+</tr>
+<tr>
+<td>profile</td>
+<td><font color="red"><a href="as.html"></font color>CLICK HERE</a></td>
+</tr>
+</body>
+</html>
